@@ -1,6 +1,6 @@
 "debe escribir por pantalla si var es primo"
 
-var = 14
+var = 11
 
 for i in range(var - 2):
     i = i + 2
