@@ -1,3 +1,3 @@
 from behave.__main__ import main as run
 
-run()
+run("--tags regression")
